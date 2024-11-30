@@ -1,5 +1,5 @@
 {
-  "originHash" : "db91c54ac80b4652c5d1b19cb32a4d0a53d2e435c933b5bd074867152f598a36",
+  "originHash" : "eafbb384c9a22eb6b13f3d1f6cdd6220846a67a51e635f750c2b757a06e58dfd",
   "pins" : [
     {
       "identity" : "abseil-cpp-binary",
@@ -278,6 +278,15 @@
       "state" : {
         "revision" : "a4923dcdcc46d7edf0a7bf7ea9d9531d40abe147",
         "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "spezispeech",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordSpezi/SpeziSpeech",
+      "state" : {
+        "revision" : "0b79f72fc8b0606e09787926446dfafb541669d3",
+        "version" : "1.2.0"
       }
     },
     {
