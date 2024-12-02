@@ -41,6 +41,9 @@
         }
       }
     },
+    "Chat" : {
+
+    },
     "Close" : {
       "localizations" : {
         "en" : {
@@ -330,6 +333,9 @@
           }
         }
       }
+    },
+    "SpeziChat" : {
+
     },
     "Start Questionnaire" : {
       "localizations" : {
